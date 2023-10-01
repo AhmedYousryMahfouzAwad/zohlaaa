@@ -1,0 +1,86 @@
+span{
+    color: orangered;
+}
+ .hover_color:hover{
+    color: orangered;
+}
+.form{
+    width: 1000px;
+}
+.nav{
+    display: flex;
+}
+.hover1{
+    color: white;
+}
+
+.hover1:hover{
+    color: orangered;
+}
+.m{
+    border-radius:10% ;
+    width: 320px;
+    height: 630px; 
+   background-image: url(../image/sprite\ \(1\).png);
+
+}
+.btn2{
+    background-color: orangered;
+}
+.link:hover{
+    color: orangered;
+}
+.link1:hover{
+    color: rgb(8, 90, 0);
+}
+.card1{
+    border-radius:10% ;
+    width: 320px;
+    height: 630px; 
+}
+.card2{
+    border-radius:15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+cursor: pointer;
+
+}
+ 
+.card2:hover{
+     
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    
+}
+#t1
+{
+   display: none;
+}
+.m{
+    border-radius:10% ;
+}
+.hover-2:hover{
+    background-color: red;
+
+}
+    
+.hover-3:hover{
+    background-color: rgb(6, 186, 231);
+
+}
+.hover-4:hover{
+    background-color: rgb(255, 8, 8);
+
+}
+.hover-5:hover{
+    background-color:#C4936f;
+
+}
+.background{
+    background-image: url(../image/yellow-back.webp);
+}
+
+    
+ 
+ 
+ 
